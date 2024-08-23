@@ -47,14 +47,6 @@ The data used in this project covers sales transactions from October 2020 to Sep
 - Power BI Desktop (latest version recommended)
 - Access to the sales data source
 
-## Contributing
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [your.email@example.com].# customer_analytics
